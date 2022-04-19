@@ -1,0 +1,3 @@
+1. countDown timer
+
+- setinterval 1초 설정인데 4초 넘어가는 현상....
